@@ -1,0 +1,11 @@
+.carouse-item-padding{
+    padding: 100px 250px;
+}
+
+.add-section{
+    background: url("../images/5ulZaP.jpg");
+    background-color: #f1b0b7;
+    background-attachment: fixed;
+    background-size: 100% 100% ;
+    opacity: 0.5;
+}
